@@ -7,24 +7,25 @@ A sleek and responsive **Watch Store Website** built with **HTML, CSS, and JavaS
 ## 📂 Project Structure
 
 SK-Watch/
-├── css/
-│ └── style.css # Main stylesheet
-├── img/
-│ └── ... # Images used in the website
-├── js/
-│ └── script.js # JavaScript for interactivity
-├── webfonts/
-│ └── ... # Custom fonts
-└── main.html # Main entry point (Homepage)
 
-yaml
-Copy code
+├── css/
+    │└── style.css # Main stylesheet
+
+├── img/
+    │ └── ... # Images used in the website
+    
+├── js/
+    │ └── script.js # JavaScript for interactivity
+
+├── webfonts/
+    │ └── ... # Custom fonts
+
+└── main.html # Main entry point (Homepage)
 
 ---
 
 ## 🚀 Features
 
-- 📱 **Responsive Design** — works well on desktop, tablet, mobile  
 - 🕒 **Product Display** — features watch items with images and details  
 - 💲 **Pricing Section** — clear presentation of prices  
 - 🛍️ **Clean Layout** — modern, user-friendly UI design  
